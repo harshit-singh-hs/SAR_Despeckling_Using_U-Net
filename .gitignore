@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project Data & Large Files
+*.tif
+*.tiff
+*.geotiff
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.tar.gz
+*.h5
+*.hdf5
+*.json
+*.csv
+
+# Specific Folders
+dataset/
+data/
+sar_data/
+raw_data/
+processed_data/
+weights/
+checkpoints/
+outputs/
+results/
+logs/
+
+# Tensorboard
+runs/
