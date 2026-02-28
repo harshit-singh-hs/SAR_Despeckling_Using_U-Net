@@ -16,7 +16,7 @@ This project implements a **U-Net Convolutional Neural Network** to effectively 
 
 ### 1. Mendeley SAR Data
 * **Source:** [SAR despeckling filters dataset by Mendeley Data](https://data.mendeley.com/datasets/2xf5v5pwkr/1)
-* **Description:** Then U-Net model trained on this dataset only.
+* **Description:** The U-Net model trained on this dataset only.
 
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/5ed6aee8-6768-4767-a77d-2169d55cd637" />
 
