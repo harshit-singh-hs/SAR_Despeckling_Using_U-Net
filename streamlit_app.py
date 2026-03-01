@@ -19,7 +19,7 @@ def load_sar_model(model_path):
 
 # Load the model into memory
 try:
-    model = load_sar_model('best_sar_model.h5')
+    model = load_sar_model('best_sar_model_finetuned.h5')
     st.sidebar.success("Model loaded successfully.")
 except Exception as e:
     st.sidebar.error(f"Error loading model. Check file path. Details: {e}")
